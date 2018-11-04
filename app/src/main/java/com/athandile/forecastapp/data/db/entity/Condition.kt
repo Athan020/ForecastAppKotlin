@@ -1,4 +1,4 @@
-package com.athandile.forecastapp.data.Response.currentWeather
+package com.athandile.forecastapp.data.db.entity
 
 data class Condition(
         val text: String,

@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/currentWeatherFragment"
-        android:name="com.athandile.forecastapp.weather.current.CurrentWeatherFragment"
+        android:name="com.athandile.forecastapp.ui.weather.current.CurrentWeatherFragment"
         android:label="current_weather_fragment"
         tools:layout="@layout/current_weather_fragment" />
     <fragment
         android:id="@+id/futureListWeatherFragment"
-        android:name="com.athandile.forecastapp.weather.future.list.FutureListWeatherFragment"
+        android:name="com.athandile.forecastapp.ui.weather.future.list.FutureListWeatherFragment"
         android:label="future_weather_fragment"
         tools:layout="@layout/future_weather_fragment" />
     <fragment
         android:id="@+id/futureDetailFragment"
-        android:name="com.athandile.forecastapp.weather.future.detail.FutureDetailFragment"
+        android:name="com.athandile.forecastapp.ui.weather.future.detail.FutureDetailFragment"
         android:label="future_detail_fragment"
         tools:layout="@layout/future_detail_fragment" />
     <fragment

@@ -1,4 +1,4 @@
-package com.athandile.forecastapp.data.Response.currentWeather
+package com.athandile.forecastapp.data.db.entity
 
 import com.google.gson.annotations.SerializedName
 

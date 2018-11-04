@@ -1,4 +1,4 @@
-package com.athandile.forecastapp.weather.future.list
+package com.athandile.forecastapp.ui.weather.future.list
 
 import androidx.lifecycle.ViewModel;
 

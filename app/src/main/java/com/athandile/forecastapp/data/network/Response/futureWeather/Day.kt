@@ -1,4 +1,4 @@
-package com.athandile.forecastapp.data.Response.futureWeather
+package com.athandile.forecastapp.data.network.Response.futureWeather
 
 data class Day(
         val avgvisKm: Double? = null,

@@ -1,4 +1,4 @@
-package com.athandile.forecastapp.weather.current
+package com.athandile.forecastapp.ui.weather.current
 
 import android.os.Bundle
 import android.view.LayoutInflater
